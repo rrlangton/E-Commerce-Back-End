@@ -22,17 +22,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walk-through videos
 
-The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
+The following animation shows the application's functions being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.]
-
-The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
-
-![In Insomnia, the user tests “GET tag by id,” “GET Category by ID,” and “GET One Product.”]
-
-The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
-
-![In Insomnia, the user tests “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.”]
+<a> https://app.screencastify.com/v3/watch/Ua3PDUAEBVLdGnYExS6x </a>
 
 ## Installation
 
@@ -50,7 +42,10 @@ Create the code needed in `server.js` to sync the Sequelize models to the Postgr
 
 ### GitHub Repo containing application code
 
+<a> https://github.com/rrlangton/E-Commerce-Back-End </a>
+
 ### Sources
 
+ Module 13 mini-project helped with writing the routes and tutoring sessions helped with testing in insomnia
 
 
